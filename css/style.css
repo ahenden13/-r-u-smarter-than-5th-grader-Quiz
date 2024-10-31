@@ -1,0 +1,44 @@
+body {
+    background-image: url("../img/paper.jpg");
+    background-size: 100%;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h3 {
+    color: darkgreen;
+}
+
+h1 {
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    color: rgb(232, 229, 195);
+    font-size: 30pt;
+    border-style: outset;
+    border-color:darkgray;
+    border-radius: 20px;
+}
+
+#totalScore {
+    font-size: 30pt;
+    text-decoration-style: wavy;
+    text-decoration-line: underline;
+    text-decoration-color: darkgray;
+}
+
+footer {
+    background-color: green;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: outset;
+    border-color: darkgray;
+    border-radius: 20px;
+
+}
+
+#congrats {
+    font-size: 16pt;
+}
+
+
+
+
